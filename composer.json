@@ -1,6 +1,7 @@
 {
-    "name": "strikersfran/laravel-install-module",
+    "name": "strikersfran/install-module",
     "description": "Modulo de prueba",
+    "type":"laravel-module",
     "authors": [
         {
             "name": "Francisco Carrión",
